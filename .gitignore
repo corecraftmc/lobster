@@ -1,0 +1,9 @@
+.gradle
+.idea
+
+buildSrc/.gradle
+buildSrc/build
+
+build
+
+jars

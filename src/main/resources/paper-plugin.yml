@@ -1,0 +1,5 @@
+name: '${name}'
+version: '${version}'
+main: '${group}.Lobster'
+description: '${description}'
+api-version: '1.20'
