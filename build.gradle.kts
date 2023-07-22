@@ -8,6 +8,8 @@ dependencies {
         exclude("me.carleslc.Simple-YAML", "Simple-Yaml")
         exclude("org.jetbrains", "annotations")
     }
+
+    implementation(project(":lobster-core"))
 }
 
 tasks {
